@@ -1,4 +1,4 @@
-
+Desabilitar o selinux caso esteja instalando centos
 
 wget http://downloads.asterisk.org/pub/telephony/certified-asterisk/asterisk-XXXXXXXX
 
